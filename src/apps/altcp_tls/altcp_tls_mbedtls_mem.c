@@ -60,7 +60,7 @@
 #include "altcp_tls_mbedtls_structs.h"
 #include "lwip/mem.h"
 
-#include "mbedtls/platform.h"
+#include "mbedtls/cgen/platform.h"
 
 #include <string.h>
 
