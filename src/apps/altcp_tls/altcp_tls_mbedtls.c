@@ -74,7 +74,7 @@
 #include "mbedtls/net_sockets.h"
 #include "mbedtls/error.h"
 #include "mbedtls/debug.h"
-#include "mbedtls/platform.h"
+#include "mbedtls/cgen/platform.h"
 #include "mbedtls/memory_buffer_alloc.h"
 #include "mbedtls/ssl_cache.h"
 #include "mbedtls/ssl_ticket.h"
